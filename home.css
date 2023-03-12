@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: url(daya-unik-budaya-indonesia-dalam-mode-era-digitalisasi-txQnoPO7Jd.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+header {
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #FFFADA;
+}
+header h3{
+    font: 'gotham';
+    font-style: italic;
+    font-weight: 700;
+    size: 24px;
+    line-height: 22.97px;
+    margin-top: 25px;
+    margin-left: 85px;
+    color: #C08267;
+}
+header h3:hover{
+    cursor: pointer;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    margin: 5px;
+}
+nav ul li{
+    margin-left: 10px;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 15px;
+    color: #C08267;
+}
+nav ul li:hover{
+    text-decoration: underline;
+}
+
+button{
+    height: 36.75px;
+    text-align: center;
+    margin-right:  85px;
+    margin-top: 20px;
+    font-size: medium;
+    background: #FFFADA;
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+    color: #C08267;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 18px;
+}
+#awal h1{
+    padding-top: 380px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 72px;
+    color: #60f900;
+}
+#awal{
+    height: 950px;
+}
+#awal p{
+  text-align: center;
+  font-family: 'roboto';
+  color: #78ef08;
+  font-weight: 400;
+  size: 24px;
+}
+.tuwa{
+   padding: 30px;
+   display: flex;
+}
+.tuwa img{
+   width: 300px;
+   height: 300px;
+   display: block;
+   margin-left: 10px;
+   margin-right: 10px; 
+}
+.tuwa h2{
+    padding: 20px;
+    margin: 100px 10px 0 10px;
+    text-align: center;
+    color: #C08267;
+}
+.tuwa p{
+    padding: 10px;
+    text-align: justify;
+    margin: 70px 10px 0 0;
+    color: #C08267;
+}
+
+
+
